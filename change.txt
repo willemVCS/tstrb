@@ -3,12 +3,11 @@
 3.trb1 - ts1
 4.trb1 - ts1
 5.trb1 - ts1
-6.trb2 - ts2
-7.trb2 - ts2
+6.trb2 - ts5
+7.trb2 - ts5
 8.trb2 - ts2
 9.trb2 - ts2
-10.trb2 - ts2
-11.trb2 - ts3
+10.trb2 - ts211.trb2 - ts3
 12.trb2 - ts3
 13.trb2 - ts3
 14.trb2 - ts3
